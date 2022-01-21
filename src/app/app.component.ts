@@ -7,6 +7,8 @@ import { FormsModule } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 // A TypeScript Class as Component Logic 
+//Model holds the data
 export class AppComponent {
   title = 'abc.';
+  
 }
